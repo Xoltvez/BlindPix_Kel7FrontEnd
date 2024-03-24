@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "BlindPix",
+    "slug": "snack-c3c88650-56f6-4613-b0b4-456e546f5590",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/purple-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/purple-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
